@@ -1,0 +1,10 @@
+Car IDs will be on discord, 
+
+
+### Online Compatibility
+
+Current testing shows that swapped police vehicles (such as the Crown Victoria and Rhino) function correctly offline.
+
+When connecting online, the game reports an "Item System Synchronization Failed" error, preventing normal online use of these vehicles.
+
+No account penalties were observed during testing, but online compatibility is currently considered unsupported.
